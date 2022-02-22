@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody news from Clarken-well being a true relation of a horrid murther committed by John Mason upon Gregory Reeves at Mr. Hues, a bakers ... upon Munday night last, being the ninth of July ... : also how he was apprehended, and his examination and confession before Justice Powel on Tuesday last ... : together with a true and exact narrative of a bloody murther committed by a souldiers wife on her husband ... on Wednesday last, with her examination and confession : this is an exact relation as it was brought from Mr. Hues the Bakers in Clarkenwell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28416</idno>
+            <idno type="STC">Wing B3264</idno>
+            <idno type="STC">ESTC R13118</idno>
+            <idno type="EEBO-CITATION">11697038</idno>
+            <idno type="OCLC">ocm 11697038</idno>
+            <idno type="VID">48249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 14:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody news from Clarken-well being a true relation of a horrid murther committed by John Mason upon Gregory Reeves at Mr. Hues, a bakers ... upon Munday night last, being the ninth of July ... : also how he was apprehended, and his examination and confession before Justice Powel on Tuesday last ... : together with a true and exact narrative of a bloody murther committed by a souldiers wife on her husband ... on Wednesday last, with her examination and confession : this is an exact relation as it was brought from Mr. Hues the Bakers in Clarkenwell.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title (p. 3): An exact relation of a bloody murther committed at Clarken-well on Munday last.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mason, John, 17th cent.</term>
+               <term>Reeves, Gregory.</term>
+               <term>Murder --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48249:1"/>
+            <pb facs="tcp:48249:1"/>
+            <p>BLOODY NEWS FROM Clarken-well.</p>
+            <p>BEING A true Relation of a horrid Murther Committed by <hi>John Maſon</hi> upon <hi>Gregory Reeves</hi> at Mr. <hi>Hues</hi> a <hi>Bakers</hi> right over againſt the <hi>Kings Arms,</hi> upon <hi>Mun<g ref="char:EOLhyphen"/>day</hi> night laſt, being the ninth of <hi>July;</hi> With the manner how he wounded him on the Head with a half hundred weight, cut of one of his Ears, and ſtab'd him in ſeveral parts of the Body.</p>
+            <p>Alſo how he was apprehended, and his Examination and Confeſſion before Juſtice <hi>Powel</hi> on <hi>Tueſday</hi> laſt, by whom he was Committed a priſoner to <hi>NEWGATE.</hi>
+            </p>
+            <p>Together with a true and exact Narrative of a Bloody murther committed by a Souldiers wife on her husband, at <hi>Dog</hi> and <hi>Bitch-yard</hi> near the <hi>Covent-garden,</hi> on <hi>Wedneſday</hi> laſt, with her Examination and Confeſſion.</p>
+            <p>This is an exact Relation as it was brought from Mr. <hi>Hues</hi> the Bakers in <hi>Clarkenwell.</hi>
+            </p>
+            <p>LONDON, Printed for J. JONES, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:48249:2"/>
+            <pb facs="tcp:48249:2"/>
+            <head>AN EXACT RELATION OF A Bloody Murther COMMITTED At Clarken-well on Munday laſt, Being the 9th of <hi>July,</hi> by <hi>John Maſon,</hi> upon <hi>Grego<g ref="char:EOLhyphen"/>ry Reeves,</hi> at a <hi>Bakers</hi> houſe right againſt the <hi>KINGS ARMES.</hi>
+            </head>
+            <p>LOve when grown beyond the wiſer bounds of Rea<g ref="char:EOLhyphen"/>ſon, and that ever-waking Devil Jealouſie have in all ages produced very ſad effects, witneſſe the in<g ref="char:EOLhyphen"/>humane ſtory of <hi>Clytemneſtra,</hi> who for the Love of the adulterer <hi>Aegyſteus,</hi> did with a mercileſſe and un-relenting hand, even at a Banquet (which the very Laws of Hoſpitality yea amongſt the rudeſt Nations, might have forbid) make the
+<pb facs="tcp:48249:3"/>Soul <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Husband <hi>Agamemnon,</hi> make an <hi>Ultimum vale</hi> of his wounded body.</p>
+            <p>And <hi>Deinira</hi> the unfortunate wife of the valiant and hero<g ref="char:EOLhyphen"/>ick <hi>Hercules,</hi> harbouring in her pining breaſt, the never-cea<g ref="char:EOLhyphen"/>ſing, venomous and dſtructive inſinuations of a ſuppoſitious jealouſie, did perſwade her abuſed ſelf, to ſend her husband a ſhirt tinctured deeply with the blood of the Centaur <hi>Neſſus,</hi> whoſe poyſonus vapours, did in a ſhort time, force the ſpirit of that all-conquering Conquerour, to leave its old acquain<g ref="char:EOLhyphen"/>tance, by which means ſhe loſt both her husband and her ſelf.</p>
+            <p>Many might be inſtanced who have (through fooliſh jea<g ref="char:EOLhyphen"/>louſy) ingaged with each other in ſingle duell to the loſſe of both their lives, which indeed is far more-noble than this ſo late and horrid murther.</p>
+            <p>Now this following ſtory hath in it a double guilt both of jealouſy and murther, the exact relation whereof is as fol<g ref="char:EOLhyphen"/>loweth <hi>viz.</hi>
+            </p>
+            <p>I ſhall firſt begin with the Author of this hanious murder, which was one <hi>John Maſon,</hi> who lay at Mr. <hi>Hues</hi> a <hi>Bakers</hi> over againſt the <hi>Kings Arms</hi> in <hi>Clarken-well,</hi> and was bedfellow to <hi>Gregory Reeves</hi> a poor, ſimple harmleſs fellow on whom this bloody deſign was Acted.</p>
+            <p>For the Reaſon of this cruelty ſo deſperatly executed, I on<g ref="char:EOLhyphen"/>ly conclude, and find by the report of all, that jealouſy was the Original, which through the inſtigation of the Devil was thus barbarouſly acted by <hi>John Maſon,</hi> vvho bearing an affe<g ref="char:EOLhyphen"/>ction to the Carpenters maid living next dore to the <hi>Bakers</hi> houſe vvas jealous of all that look'd on her.</p>
+            <p>But more eſpecially vvas he jealous of the ſaid <hi>Gregory</hi> an innocent ſillycreature,, vvho was not deſigned in the leaſt, to fruſtrate the Suit of his ſuppoſed friend.</p>
+            <pb n="6" facs="tcp:48249:3"/>
+            <p>But to come to this horrid act it ſelf, on <hi>Munday night</hi> be<g ref="char:EOLhyphen"/>ing the ninth inſtant, they went to bed very f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iendly, the mans Son of the houſe lying with them; yet by t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Devils Suggeſtion, when poor <hi>Gregory</hi> was faſt a ſleep, and the Boy that lay with him, up got this Cruel and baberous Murderer, and in the firſt place, either with the halfe hundred weight, which he ſet againe on the Table, or the Hammer which was ſince found in the Room, he ſtund-him to hinder his crying out, and wounded him in divers places of the Head.</p>
+            <p>This not ſatisfying his moſt Cruel bloody mind, he cut off one of his ears, and having ſo done ſtab'd him in ſeverall parts of the Body, of which he dyed.</p>
+            <p>The time of this ſad Execution the boy lay faſt aſleep, and heard nothing of this bloody and inhumane Tragedy till he avvaked the next morning.</p>
+            <p>Upon <hi>Tueſday</hi> morning being the tenth day of <hi>July,</hi> the Murtherer vvas diſcovered &amp; rumorred abroad at vvhich the vvhole Family vvas not a little diſturbed, the Carpenters Maid alſo at next dore being very much troubled and greatly grieved at this ſad nevves of her Neighbours death, as vvell as the deſperate Condition of her Lover <hi>John Maſon.</hi>
+            </p>
+            <p>And the Neighbour flocking into the Bakers houſe appre<g ref="char:EOLhyphen"/>hended the Murtherer, and immediately carryed him before Juſtice <hi>Powel,</hi> who lived near adjacent to the place, vvhe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e being examined he denyed nothing; but the Juſtice ask<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng him vvhy he did it, he anſvvered thus, <hi>viz. I would my hands had been tyed thus laſt night, and it had been better for me.</hi>
+            </p>
+            <p>This being ended, his Mittimus vvas made, and he vvas conducted by the Officers to Nevvgate, till ſuch time that Juſtice be inflicted upon him for this bloody fact.</p>
+            <pb n="4" facs="tcp:48249:4"/>
+            <p>On <hi>Wedneſday</hi> the 11th of <hi>July,</hi> the Crowner ſhould have ſat with his July on the party murthered but he being abſent they appointed to meet the next day, till when the Corps was ordered to be laid in the ground, which was accordingly performed.</p>
+            <p>On <hi>Thurſday</hi> the twelfth inſtant, the Crowners Jury as to the agreement the day before met in the Nags-head Ta<g ref="char:EOLhyphen"/>at <hi>Clarken-wel,</hi> and being gathered together, the body was ordered to be taken up again.</p>
+            <p>This being performed the Crowner and his Jury ſat upon this ſad and lamentable act, and after viewing the Corps, ac<g ref="char:EOLhyphen"/>cording to the Laws of this Kingdom, they gave in their Ver<g ref="char:EOLhyphen"/>dict, that they could finde it to be no other then willful mur<g ref="char:EOLhyphen"/>ther.</p>
+            <p>When they had thus ended the Corps was again put into the place from whence it was taken, and the murderer ſtill remains in <hi>Newgate,</hi> and will doubtleſſe (next Seſſions) re<g ref="char:EOLhyphen"/>ceive the juſt ſentence of Death for this cruel, bloody and bar<g ref="char:EOLhyphen"/>barous fact.</p>
+            <p>The Relation of this wicked and unimmitated enterprize is here publiſhed as a warning-piece to all thoſe that are young and ignorant of the nature of love, (which in it ſelf is peace<g ref="char:EOLhyphen"/>able, hides multitudes of faults, plots no evil, and ſeeks not revenge, but if kindled with the diveliſh fire of Jealouſy, is a plotter of all manner of miſchief, and acts with bloody hands in any cruel murder what-ever) that they fall not into ſuch deſperate deſigns, whereby they may not only deprive of life thoſe on whom they commit ſuch horrid cruelties and bar<g ref="char:EOLhyphen"/>barous murthers: but alſo bring themſelves to unnatural and untimely ends, to the great grief of their Parents and friends, and to the ſorrow of all good Chriſtians, that have an eye to diſceru the miſerable and deſperate condition men fall in by Jealouſie, which was the chief cauſe of this moſt ſad and la<g ref="char:EOLhyphen"/>mentable
+<pb n="7" facs="tcp:48249:4"/>cruelty committed on the ſaid <hi>Gregory Reeves</hi> by the bloudy hands of <hi>John Maſon,</hi> as he lay in a dead ſleep not dreaming in the leaſt of the intended miſchief deſigned by his bed-fellow.</p>
+            <p>This may put us all in mind of our duty to him who is the Author of all good, That in regard we enter into our beds, as into our graves, ſo we ought to uſe our beſt endeavours to make ſuch a preparation for every houre, that we may im<g ref="char:EOLhyphen"/>brace death as a Meſſenger inviting us to a Manſion of eter<g ref="char:EOLhyphen"/>nal glory.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="account">
+            <pb n="8" facs="tcp:48249:5"/>
+            <head>A true account of the bloody murther commtted by a Sol<g ref="char:EOLhyphen"/>diers Wife on her Husband upon <hi>Wedneſday</hi> laſt, at Dog and Bitch-yard near the <hi>Covent-garden.</hi>
+            </head>
+            <p>IN this ſtory I ſhall he brief, and only give you the true account, which was thus, <hi>viz.</hi> Upon <hi>Tueſday</hi> the 10th in<g ref="char:EOLhyphen"/>ſtant, this Souldier coming home, he found his wife craming her patch, he being hot opend his doublet, and deſiring a Pipe of Tobacco ſhe told himhe ſhould have none, but going to the box where he uſed to lay it, ſhe ſtarted up with a Knife in her hand, and ſtab'd him in the Breaſt, he taking no great no<g ref="char:EOLhyphen"/>tice of what ſhe did, in a jeſting way flung his hat at her, with which ſhe in earneſt moſt deſperately ſtab'd him in the belly, and yet was not ſatisfied till ſhe had made a third aſſault and ſtab'd him again.</p>
+            <p>Since which bloudy murther, upon her examination ſhe ſays He was not her Husband, thinking thereby to ſcape the better, but the Law is more juſt then to pardon ſuch bloody offenders.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48249:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
